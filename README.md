@@ -1,7 +1,5 @@
 # Personalized-Diet-Recommendation-System
 
-# Personalized Diet Recommendation System
-
 Welcome to our Personalized Diet Recommendation System GitHub repository!
 
 ## About
